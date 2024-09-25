@@ -30,7 +30,7 @@ The dashboard tracks employee growth from 2010 to 2018, showing a sharp increase
 ![Screenshot 2024-09-25 140757](https://github.com/user-attachments/assets/faf47327-4e84-426b-8750-a010b25b2f34)
 
 
-## 🔄 Demographics Analysis
+## 👫 Demographics Analysis
 **Employee by Recruitment Source**:
 
 The main recruitment sources include:
@@ -55,7 +55,7 @@ The average age of employees is **45** years, with a diverse range of employees 
 ![Screenshot 2024-09-25 140933](https://github.com/user-attachments/assets/cc3ce596-e8b4-4de4-acd7-e5a9b6efd8d1)
 
 
-## 👩‍💼 Performance Analysis
+## 📈 Performance Analysis
 **Employee Performance**:
 
 Most employees are categorized as **Fully Meets** Expectations, followed by Exceeds Expectations. A few employees fall into the Needs Improvement category.
